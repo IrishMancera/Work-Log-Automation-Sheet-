@@ -1,0 +1,81 @@
+Date: 2025-03-15
+
+Number	Daily Work Description	Hr	Min	Complete	Follow up	Supervisor Comments
+1	Validated script to loop through historical date ranges (1/1–current).	1	0	yes		
+2	Rechecked date-based iteration logic for accuracy.	0	50	yes		
+3	Confirmed pagination logic retrieves all available ad data.	1	0	yes		
+4	Reviewed retry logic using exponential backoff on failed API attempts.	0	55	yes		
+5	Checked batch insert status after each daily pull.	0	50	yes		
+6	Spot-checked inserted rows for field completeness and record count.	0	45	yes		
+7	Validated logs for correct response code tracking.	0	55	yes		
+8	Executed script manually for specific dates to test ad-hoc run flow.	0	30	yes		
+Date: 2025-03-16
+
+Number	Daily Work Description	Hr	Min	Complete	Follow up	Supervisor Comments
+1	Validated script to loop through historical date ranges (1/1–current).	1	0	yes		
+2	Rechecked date-based iteration logic for accuracy.	0	50	yes		
+3	Confirmed pagination logic retrieves all available ad data.	1	0	yes		
+4	Reviewed retry logic using exponential backoff on failed API attempts.	0	55	yes		
+5	Checked batch insert status after each daily pull.	0	50	yes		
+6	Spot-checked inserted rows for field completeness and record count.	0	45	yes		
+7	Validated logs for correct response code tracking.	0	55	yes		
+8	Executed script manually for specific dates to test ad-hoc run flow.	0	30	yes		
+Date: 2025-03-17
+
+Number	Daily Work Description	Hr	Min	Complete	Follow up	Supervisor Comments
+1	Validated script to loop through historical date ranges (1/1–current).	1	0	yes		
+2	Rechecked date-based iteration logic for accuracy.	0	50	yes		
+3	Confirmed pagination logic retrieves all available ad data.	1	0	yes		
+4	Reviewed retry logic using exponential backoff on failed API attempts.	0	55	yes		
+5	Checked batch insert status after each daily pull.	0	50	yes		
+6	Spot-checked inserted rows for field completeness and record count.	0	45	yes		
+7	Validated logs for correct response code tracking.	0	55	yes		
+8	Executed script manually for specific dates to test ad-hoc run flow.	0	30	yes		
+Let me know if you'd like further adjustments or additional dates!
+
+
+
+
+
+
+
+You said:
+try to add data to follow up and supervisor comments 
+
+
+ChatGPT said:
+Here's the updated sheet with follow-up and supervisor comments added:
+
+Date: 2025-03-15
+
+Number	Daily Work Description	Hr	Min	Complete	Follow up	Supervisor Comments
+1	Validated script to loop through historical date ranges (1/1–current).	1	0	yes	Review script performance weekly.	Good progress, continue to optimize for speed.
+2	Rechecked date-based iteration logic for accuracy.	0	50	yes	Test additional date ranges next.	Great attention to detail. Check for edge cases.
+3	Confirmed pagination logic retrieves all available ad data.	1	0	yes	Monitor for any missing data points.	Everything seems fine, good verification.
+4	Reviewed retry logic using exponential backoff on failed API attempts.	0	55	yes	Evaluate impact on data retrieval.	Retry logic is solid, ensure to test high-volume runs.
+5	Checked batch insert status after each daily pull.	0	50	yes	Automate daily status checks.	Batch inserts are consistent. Continue monitoring.
+6	Spot-checked inserted rows for field completeness and record count.	0	45	yes	Conduct another round of checks.	Keep up the thorough checks. No issues found.
+7	Validated logs for correct response code tracking.	0	55	yes	Track API response codes regularly.	Logs are clear, no action needed.
+8	Executed script manually for specific dates to test ad-hoc run flow.	0	30	yes	Implement automated ad-hoc tests.	Manual execution worked fine, schedule for next week.
+Date: 2025-03-16
+
+Number	Daily Work Description	Hr	Min	Complete	Follow up	Supervisor Comments
+1	Validated script to loop through historical date ranges (1/1–current).	1	0	yes	Review script performance weekly.	Make sure to test on larger data sets.
+2	Rechecked date-based iteration logic for accuracy.	0	50	yes	Test additional date ranges next.	Confirm logic for edge cases, well done.
+3	Confirmed pagination logic retrieves all available ad data.	1	0	yes	Monitor for any missing data points.	Pagination is working fine. Consider additional checks.
+4	Reviewed retry logic using exponential backoff on failed API attempts.	0	55	yes	Evaluate impact on data retrieval.	Retry logic is fine. Please check for long-term stability.
+5	Checked batch insert status after each daily pull.	0	50	yes	Automate daily status checks.	Consistent batch performance, monitor edge cases.
+6	Spot-checked inserted rows for field completeness and record count.	0	45	yes	Conduct another round of checks.	Thorough check, no discrepancies.
+7	Validated logs for correct response code tracking.	0	55	yes	Track API response codes regularly.	Logs look good, minimal discrepancies.
+8	Executed script manually for specific dates to test ad-hoc run flow.	0	30	yes	Implement automated ad-hoc tests.	Manual testing completed successfully, no follow-up required.
+Date: 2025-03-17
+
+Number	Daily Work Description	Hr	Min	Complete	Follow up	Supervisor Comments
+1	Validated script to loop through historical date ranges (1/1–current).	1	0	yes	Review script performance weekly.	Well done, test on a larger dataset next.
+2	Rechecked date-based iteration logic for accuracy.	0	50	yes	Test additional date ranges next.	Continue verifying edge cases and outliers.
+3	Confirmed pagination logic retrieves all available ad data.	1	0	yes	Monitor for any missing data points.	Pagination appears correct. Regular checks advised.
+4	Reviewed retry logic using exponential backoff on failed API attempts.	0	55	yes	Evaluate impact on data retrieval.	Retry logic working well, test under high traffic.
+5	Checked batch insert status after each daily pull.	0	50	yes	Automate daily status checks.	Batch insert performance stable, keep monitoring.
+6	Spot-checked inserted rows for field completeness and record count.	0	45	yes	Conduct another round of checks.	All data is clean, no changes needed.
+7	Validated logs for correct response code tracking.	0	55	yes	Track API response codes regularly.	Logs confirmed to be correct. Keep monitoring.
+8	Executed script manually for specific dates to test ad-hoc run flow.	0	30	yes	Implement automated ad-hoc tests.	Manual test successful, automation next step.
