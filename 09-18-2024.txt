@@ -1,9 +1,0 @@
-Number	Daily Work Description	Hr	Min	Complete	Follow up	Supervisor Comments
-1	Validated script to loop through historical date ranges (1/1–current).	1	0	yes		
-2	Rechecked date-based iteration logic for accuracy.	0	50	yes		
-3	Confirmed pagination logic retrieves all available ad data.	1	0	yes		
-4	Reviewed retry logic using exponential backoff on failed API attempts.	0	55	yes		
-5	Checked batch insert status after each daily pull.	0	50	yes		
-6	Spot-checked inserted rows for field completeness and record count.	0	45	yes		
-7	Validated logs for correct response code tracking.	0	55	yes		
-8	Executed script manually for specific dates to test ad-hoc run flow.	0	30	yes		

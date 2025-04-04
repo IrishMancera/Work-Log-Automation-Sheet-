@@ -1,0 +1,18 @@
+Number	Daily Work Description	Hr	Min	Complete	Follow up	Supervisor Comments
+1	Validated script to loop through historical date ranges (1/1–current).	1	0	yes	Monitor for edge date cases monthly	Good initiative validating full range
+2	Rechecked date-based iteration logic for accuracy.	0	50	yes	Add unit tests for leap year	Solid logic, just ensure test coverage
+3	Confirmed pagination logic retrieves all available ad data.	1	0	yes	Log page count for traceability	Excellent, no data missing
+4	Reviewed retry logic using exponential backoff on failed API attempts.	0	55	yes	Simulate timeout errors weekly	Smart handling of API failures
+5	Checked batch insert status after each daily pull.	0	50	yes	Schedule alert on insert failure	Important check, consider automation
+6	Spot-checked inserted rows for field completeness and record count.	0	45	yes	Automate field completeness validation	Thorough QA
+7	Validated logs for correct response code tracking.	0	55	yes	Compare against expected codes	Logs look solid, well done
+8	Executed script manually for specific dates to test ad-hoc run flow.	0	30	yes	Document manual test steps	Good test coverage
+
+9	Validated script to loop through historical date ranges (1/1–current).	1	0	yes	Monitor for edge date cases monthly	Good initiative validating full range
+10	Rechecked date-based iteration logic for accuracy.	0	50	yes	Add unit tests for leap year	Solid logic, just ensure test coverage
+11	Confirmed pagination logic retrieves all available ad data.	1	0	yes	Log page count for traceability	Excellent, no data missing
+12	Reviewed retry logic using exponential backoff on failed API attempts.	0	55	yes	Simulate timeout errors weekly	Smart handling of API failures
+13	Checked batch insert status after each daily pull.	0	50	yes	Schedule alert on insert failure	Important check, consider automation
+14	Spot-checked inserted rows for field completeness and record count.	0	45	yes	Automate field completeness validation	Thorough QA
+15	Validated logs for correct response code tracking.	0	55	yes	Compare against expected codes	Logs look solid, well done
+16	Executed script manually for specific dates to test ad-hoc run flow.	0	30	yes	Document manual test steps	Good test coverage
